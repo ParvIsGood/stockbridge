@@ -16,6 +16,14 @@ Newest entry at the top. Every session, by any person or any agent, adds one ent
 
 ---
 
+## 2026-11-26 · p04 market research · Parv (Claude)
+**Branch / PR:** p04-market-research
+**Done:** `docs/research/MARKET.md`: one deep-research report (`docs/research/raw/research_brief.md`) fact-checked source by source. Contents: 10 deck numbers with labels, competitor table, rebuilt market size (₹702 Cr India / ~₹15 Cr Punjab, shop-capped), ROI check at ₹150/shop/month, and a corrections log. Major fixes: VoiceKhata is now free; Punjab counts cut to the 2.19% population share; the inflated ₹3,645 Cr figure moved to the appendix.
+**Not done / next step:** a second deep-research report was not run (optional). Replace the vendor-only expiry numbers with real distributor answers from interviews (05).
+**Decisions:** price ₹150/active shop/month throughout. Flag for Daivik: at that price ROI only works for distributors above ~₹10 Cr turnover. Consider outcome-based pricing, or brands as a second payer.
+**Gates:** docs only.
+**Blockers / questions for Daivik:** are interviews (05) happening? MARKET.md section 10 lists the questions they need to answer.
+
 ## 2026-11-25 · playbook · Claude (lead session)
 **Done:**
 - Added the build playbook: `playbook/` (master workflow, criteria, tools setup, budget, prompts 00–34).
